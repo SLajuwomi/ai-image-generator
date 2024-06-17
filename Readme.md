@@ -1,6 +1,8 @@
 # Dall-E Clone
 
-[Project Video](0617.mp4)
+[Project Video](https://github.com/SLajuwomi/ai-image-generator/assets/111301988/dda1baf0-75b6-41f8-989e-197a3b419645)
+
+
 
 ## Overview
 
