@@ -6,7 +6,7 @@
 
 I created a Dall-e clone project using React for fronted and Node.js + Mongo for the backend. This was my first exposure to Mongo and it helped me get a better understanding of backend development.
 
-### Fronted
+### Frontend
 
  <p align="left">
  <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
