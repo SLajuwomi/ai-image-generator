@@ -1,6 +1,6 @@
 # Dall-E Clone
 
-[ProjectVideo](https://youtu.be/qJaePwXwXdY)
+[Project Video](https://youtu.be/qJaePwXwXdY)
 
 ## Overview
 
