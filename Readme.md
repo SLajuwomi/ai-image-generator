@@ -102,4 +102,3 @@ npm run dev
 
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FItsAnkitPatel%2FDALL-E&countColor=%232ccce4&style=plastic)
