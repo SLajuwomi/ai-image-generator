@@ -1,18 +1,10 @@
 # Dall-E Clone
 
-[Project Video](https://github.com/ItsAnkitPatel/DALL-E/assets/163109788/34f44ab2-120e-4178-9d85-8e04cf0dcb85)
-
-
+[ProjectVideo](https://youtu.be/qJaePwXwXdY)
 
 ## Overview
 
-Welcome to the DALL-E Clone project! This project is a recreation inspired by the groundbreaking DALL-E model developed by OpenAI, which generates images from textual descriptions. This clone aims to replicate this functionality to a certain extent, allowing users to input prompts and generate corresponding images.
-
-## Features
-
-- **Text-to-Image Generation**: Input textual prompts and generate corresponding images.
-- **Easy Download**: You can can share the generated image with others and also can download it.
-- **User-Friendly Interface**: Simple user interface for ease of use.
+I created a Dall-e clone project using React for fronted and Node.js + Mongo for the backend. This was my first exposure to Mongo and it helped me get a better understanding of backend development.
 
 ### Fronted
 
@@ -65,11 +57,14 @@ cd DALL-E/server/
 
 npm i
 ```
+
 Inside `DALL-E/client/` create `.env` file and create a environment variable `VITE_BACKEND_API_URL` <br>
 This will be your backend URL, for local it can be
+
 ```
 VITE_BACKEND_API_URL="http://localhost:8080"
 ```
+
 > If you running the server locally then change the port number according to your local server.
 
 <br>
@@ -78,13 +73,13 @@ VITE_BACKEND_API_URL="http://localhost:8080"
 Now inside `DALL-E/server` create `.env` file and add these environment variables and their values
 
 ```js
-MONGODB_URL = "";
-OPENAI_API_KEY = "";
-OPENAI_API_KEY = "";
+MONGODB_URL = ""
+OPENAI_API_KEY = ""
+OPENAI_API_KEY = ""
 
-CLOUDINARY_CLOUD_NAME = "";
-CLOUDINARY_API_KEY = "";
-CLOUDINARY_API_SECRET = "";
+CLOUDINARY_CLOUD_NAME = ""
+CLOUDINARY_API_KEY = ""
+CLOUDINARY_API_SECRET = ""
 ```
 
 Create account in Cloudinary and OpenAI to get the API keys and then add them in the environment variable.
@@ -107,5 +102,3 @@ npm run dev
 ```
 
 <br>
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FItsAnkitPatel%2FDALL-E&countColor=%232ccce4&style=plastic)
